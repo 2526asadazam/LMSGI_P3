@@ -1,0 +1,65 @@
+/* PEL TEXT <h1> (HORARI) */
+h1 {
+    color: #008CBA; /* COLOR */
+    font-weight: bold; /*NEGRETA */
+    text-align: center; /* Centra */
+}
+table {
+    margin: auto; /* Centrar la taula en pantalla */
+    width: 90%; 
+}
+
+/* El caption de la taula */
+caption {
+    color: #CC3300; /* Color */
+    font-size: 25px; /* Mida 25 px */
+    caption-side: top;
+    padding: 10px;
+}
+
+/* Les cel·les de la capçalera (<th>) */
+th {
+    width: 100px; /* Amplada de 100px aprox */
+    background-color: #333; /* Color de fons */
+    color: white; 
+    text-align: center; /* Text centrat */
+    font-weight: bold; /* Negreta */
+    padding: 10px;
+    border: 1px solid black; /* Manté la vora */
+}
+td {
+    border: 1px solid black;
+    text-align: center; 
+    padding: 8px;
+}
+.ang {
+    background-color: #f7e1b5;
+}
+.tut {
+    background-color: #b3d7ff;
+}
+.ipo {
+    background-color: #c0f2b3;
+}
+.marques {
+    background-color: #ffe0e0;
+}
+.bd {
+    background-color: #b5c7f7;
+}
+.fonaments {
+    background-color: #f2e9b3;
+}
+.iso {
+    background-color: #d7b5f7;
+}
+.sost {
+    background-color: #b5f7e1;
+}
+.pax {
+    background-color: #f7b5c7;
+}
+.descans td {
+    background-color: #ccc;
+    font-weight: bold;
+}
